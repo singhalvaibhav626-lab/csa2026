@@ -43,4 +43,34 @@ System suggests similar movies like Iron Man, Thor and Captain America.
 
 ## screenshot (code)
 
+![movie_Recommendation_system code 1](https://github.com/user-attachments/assets/4525debd-abdc-4348-8c50-f2d1bf57dd25)
+![movie_Recommendation_system code 2](https://github.com/user-attachments/assets/c4d45a30-48ca-459d-beef-3cbdd699ac29)
+
+## Result
+![movie_Recommendation_system result](https://github.com/user-attachments/assets/512020cd-f9d9-4e3d-8246-433d37a04f87)
+
+
+## Limitations
+Currently the dataset is very small. Recommendations may improve if more movies and more features like ratings and reviews are added.
+
+## Future Scope
+This project can be improved by:
+- Adding large datasets
+- Creating a graphical interface
+- Adding user ratings
+- Using advanced recommendation algorithms
+
+## Usage Instructions
+Clone this repository or download the python movie_recommender.py file.
+
+Run the script in your terminal: python movie_recommender.py
+
+When prompted, enter a movie name (e.g., inception or avengers).
+
+The system will output the top 3 movies you might like based on the database.
+
+
+
+## Academic Use
+This project is developed for learning purpose as part of AI/ML study.
 
